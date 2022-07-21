@@ -7,14 +7,10 @@ E
 Oeureka_client/src/main/java/com/cuit/provider/repository/StudentRepository.java,a\d\ada00acf24b580d9bcfbcb33349e394b83287fb7
 ˆ
 Xeureka_client/src/main/java/com/cuit/provider/repository/impl/StudentRepositoryImpl.java,1\0\10c006956785db84558932f63157ba29057dd528
-x
-Heureka_server/src/main/java/com/cuit/server/EurekaServerApplication.java,0\5\050aa7f09763043c9a55bfc575db376e7248029d
 v
 Feureka_client/src/main/java/com/cuit/provider/ProviderApplication.java,9\9\99b73854028f400ff87e49b91ba885606d233f42
 E
 rest_template/pom.xml,e\1\e105d0dc5e85818531aeb5921a3c5a9018180586
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 ~
 Nrest_template/src/main/java/com/cuit/resttemplate/RestTemplateApplication.java,1\f\1f3773beba897c85319c1f2e066f160d6001e2f1
 u
