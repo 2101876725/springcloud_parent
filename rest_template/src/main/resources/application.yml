@@ -1,0 +1,9 @@
+server:
+  port: 9030
+springdoc:
+  api-docs:
+    enabled: true
+    path: /swagger-ui/api-docs
+  swagger-ui:
+    path: /swagger-ui/index.html
+  packages-to-scan: com.cuit.resttemplate
