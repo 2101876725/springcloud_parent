@@ -8,3 +8,5 @@
 /nativeconfigserver/target/
 /ribbon/target/
 /zuul-gateway/target/
+/.idea/
+springcloud_parent.iml
