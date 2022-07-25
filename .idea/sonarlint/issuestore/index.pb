@@ -5,8 +5,6 @@ E
 eureka_client/pom.xml,1\f\1f7182822893507839962447f1f35d58a2a4df4e
 
 Oeureka_client/src/main/java/com/cuit/provider/repository/StudentRepository.java,a\d\ada00acf24b580d9bcfbcb33349e394b83287fb7
-ˆ
-Xeureka_client/src/main/java/com/cuit/provider/repository/impl/StudentRepositoryImpl.java,1\0\10c006956785db84558932f63157ba29057dd528
 v
 Feureka_client/src/main/java/com/cuit/provider/ProviderApplication.java,9\9\99b73854028f400ff87e49b91ba885606d233f42
 E
@@ -41,8 +39,6 @@ m
 =zuul-gateway/src/main/java/com/cuit/zuul/ZuulApplication.java,d\e\debe3a1310f999abcfc61f8d452d97c6355ba835
 f
 6feign/src/main/java/com/cuit/feign/entity/Student.java,6\2\627028addf03db17c731e5cf7ff218a06d2a5a69
-
-Oeureka_client/src/main/java/com/cuit/provider/controller/StudentController.java,f\5\f54a032d76686e1e48c6a4fa0188c2ffba60384a
 w
 Geureka_client/src/main/java/com/cuit/provider/ProviderApplication2.java,9\a\9ab8f7d4bf19a887338eae08cfcbdc4efc6162e2
 =
@@ -77,3 +73,17 @@ Mnativeconfigserver/src/main/java/com/cuit/config/NativeServerApplication.java,
 ]nativeconfigclient/src/main/java/com/cuit/nativeclient/controller/NativeClientController.java,7\2\72aca9ca31e69fcc6bfa5a4ea184e9fc4f21d69c
 ƒ
 Snativeconfigclient/src/main/java/com/cuit/nativeclient/NativeClientApplication.java,1\c\1c207df961b6b036859367330e47f173513b6a88
+‡
+Wconfigclient/src/main/java/com/cuit/configclient/controller/ConfigClientController.java,e\5\e5ed7cf6a4efa9a700db45a3fe9c68bc8d60fe2f
+}
+Mconfigserver/src/main/java/com/cuit/configserver/ConfigServerApplication.java,2\8\28a8f120366c666ea1fc0bfa8cc5a67c80ac2452
+D
+configclient/pom.xml,f\2\f2a0141202afbb98263ba999139c9d28d153342e
+}
+Mconfigclient/src/main/java/com/cuit/configclient/ConfigClientApplication.java,7\6\7666ec60b93904587b98bd3d50a71ae9d1035094
+x
+Heureka_server/src/main/java/com/cuit/server/EurekaServerApplication.java,0\5\050aa7f09763043c9a55bfc575db376e7248029d
+D
+configserver/pom.xml,f\1\f16afbec2e8c0eddd1dcff3e8e4756e53404058b
+G
+config/configclient.yml,f\7\f7cb31241a3034d2d9cc52a225d2e3ac54141fd2

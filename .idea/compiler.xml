@@ -9,14 +9,16 @@
         <outputRelativeToContentRoot value="true" />
         <module name="hystrix" />
         <module name="nativeconfigserver" />
-        <module name="configclient" />
-        <module name="eureka_client" />
         <module name="zuul-gateway" />
-        <module name="rest_template" />
-        <module name="eureka_server" />
+        <module name="zipkin" />
         <module name="ribbon" />
         <module name="nativeconfigclient" />
         <module name="configserver" />
+        <module name="configclient" />
+        <module name="eureka_client" />
+        <module name="rest_template" />
+        <module name="zipkinclient" />
+        <module name="eureka_server" />
         <module name="feign" />
         <module name="consumer" />
       </profile>
@@ -37,6 +39,8 @@
       <module name="rest_template" options="-parameters" />
       <module name="ribbon" options="-parameters" />
       <module name="springcloud_parent" options="-parameters" />
+      <module name="zipkin" options="-parameters" />
+      <module name="zipkinclient" options="-parameters" />
       <module name="zuul-gateway" options="-parameters" />
     </option>
   </component>
